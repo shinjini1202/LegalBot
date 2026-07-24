@@ -1,0 +1,49 @@
+{
+  "Is the victim married?": [
+    "Facts of Case"
+  ],
+  "What is the fact of the cases based on which trial court has given the accused as guilty?": [
+    "Trial Court Judgment",
+    "Facts of Case"
+  ],
+  "Did the death of the woman occur within seven years of marriage?": [
+    "Victim Death"
+  ],
+  "Was the death caused by abnormal circumstances?": [
+    "Victim Death"
+  ],
+  "Did the deceased suffer cruelty or ill-treatment by her husband or his relatives?": [
+    "Victim Death"
+  ],
+  "Is there any demand for dowry?": [
+    "Dowry"
+  ],
+  "How many prosecution witnesses are hostile?": [
+    "PW Statement"
+  ],
+  "Did the cruelty or harassment take place “soon before her death”?": [
+    "Victim Death",
+    "Evidence"
+  ],
+  "Are there direct witnesses (parents, relatives, neighbors, friends) who can testify about dowry demands or harassment?": [
+    "PW Statement"
+  ],
+  "Is there any declaration by the victim?": [
+    "PW Statement"
+  ],
+  "Was there medical evidence supporting natural illness or accidental cause?": [
+    "Evidence"
+  ],
+  "Was the husband directly involved in the cruelty/harassment?": [
+    "Evidence"
+  ],
+  "Was there any delay in filing FIR or complaints?": [
+    "Facts of Case"
+  ],
+  "Were in-laws or relatives truly involved or are they being falsely implicated?": [
+    "Evidence"
+  ],
+  "Does the prosecution witness statement get matched with the direct complainant?": [
+    "PW Statement"
+  ]
+}
