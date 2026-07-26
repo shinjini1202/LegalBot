@@ -206,4 +206,10 @@ This project is intended for research and educational purposes only. The generat
 
 ## Authors
 
-Developed as part of a research project on the application of Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) for legal assistance in domestic violence case analysis.
+Developed as part of a research project on the application of Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) for legal assistance in domestic violence case analysis as the Capstone Project for the Degree of B.Tech in Computer Science & Engineering at JIS University, Kolkata.    
+By:-  
+1)Shinjini Nag  
+2)Siddhartha Sankar Bera  
+3)Srijita Dasgupta  
+4)Soumyajit De  
+Special Apprecialtion for our mentor- Dr Tanaya Das (Assistant Professor, Dept of CSE, JIS University, Kolkata)    
