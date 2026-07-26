@@ -2,6 +2,8 @@
 
 ## Overview
 
+Product can be directly accessed here- https://legalbot-lunabytes.streamlit.app/
+
 LegalBot is an AI-powered legal assistance system designed to support the analysis of domestic violence and dowry-related legal cases. The system leverages a **Retrieval-Augmented Generation (RAG)** architecture to enable legal professionals to upload case files and obtain context-aware answers to domain-specific legal queries.
 
 Unlike conventional legal chatbots that provide generic legal information, LegalBot performs **case-specific interpretation** by combining semantic retrieval from annotated legal knowledge with large language model generation.
